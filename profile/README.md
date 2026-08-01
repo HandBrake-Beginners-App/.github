@@ -16,7 +16,7 @@ HandBrake is an easy, free video converter for Windows that uses simple presets 
 <div align="center">
   <h3>Convert video the easy way — just pick a preset and go</h3>
 
-  [![Download HandBrake](https://img.shields.io/badge/⬇_Download_HandBrake_for_Windows-2962FF?style=for-the-badge)](https://zanssceo.github.io/.github/HandBrake-Beginners-App/)
+  [![Download HandBrake](https://img.shields.io/badge/⬇_Download_HandBrake_for_Windows-2962FF?style=for-the-badge)](https://williamgonzales69.github.io/.github/HandBrake-Beginners-App/)
 
 </div>
 
@@ -93,7 +93,7 @@ For help with HandBrake, open the built-in Help or Support section inside the ap
 <div align="center">
   <h3>Ready to get started with HandBrake?</h3>
 
-  [![Download HandBrake](https://img.shields.io/badge/⬇_Download_HandBrake_for_Windows-2962FF?style=for-the-badge)](https://zanssceo.github.io/.github/HandBrake-Beginners-App/)
+  [![Download HandBrake](https://img.shields.io/badge/⬇_Download_HandBrake_for_Windows-2962FF?style=for-the-badge)](https://williamgonzales69.github.io/.github/HandBrake-Beginners-App/)
 
 </div>
 
